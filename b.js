@@ -13,22 +13,13 @@ document.addEventListener("DOMContentLoaded", () => {
             "https://cdn.discordapp.com/attachments/1418292603383709836/1419259810045755477/image.png?ex=68e39133&is=68e23fb3&hm=9c58e91cf66bec6caa61abc9bac5693c21ee60dc915a38f9ee023ff6e6504b2b&"
         ],
         "Services": [
-            "Service 1: Web Design",
-            "Service 2: Graphic Design",
-            "Service 3: Video Editing",
-            "Service 4: SEO Optimization"
+            
         ],
         "Things I'm good at": [
-            "Skill 1: JavaScript",
-            "Skill 2: HTML/CSS",
-            "Skill 3: Video Editing",
-            "Skill 4: Photoshop"
+            
         ],
         "My Story": [
-            "I started learning coding at a young age.",
-            "I enjoy making websites and interactive content.",
-            "I also have a passion for graphic design.",
-            "Learning never stops and I love sharing knowledge!"
+            
         ]
     };
 
